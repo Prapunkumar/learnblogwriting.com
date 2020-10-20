@@ -1,1 +1,2 @@
-# learnblogwriting.com
+# Let's explore whats blogging collectively :)
+Learn to create you own website with your blog for free
